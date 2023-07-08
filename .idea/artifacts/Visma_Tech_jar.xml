@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Visma_Tech:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Visma_Tech_jar</output-path>
+    <root id="archive" name="Visma_Tech_jar.jar">
+      <element id="module-output" name="Visma_Tech" />
+    </root>
+  </artifact>
+</component>
